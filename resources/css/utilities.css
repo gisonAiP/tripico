@@ -1,0 +1,12 @@
+.sub-header {
+    color: #767676;
+    font-size: 10px;
+    padding-left: 100px;
+}
+
+.mobile-add-button {
+    position: fixed;
+    bottom: 100px;
+    right: 30px;
+    z-index: 1;
+}
