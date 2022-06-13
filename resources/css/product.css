@@ -1,7 +1,7 @@
 /* Card */
 .img-card {
     width: 160px;
-    margin: 20px;
+    margin: 5px;
     position: relative;
     box-shadow: 0 4px 6px #E5E5E5;
     border-radius: 15px
@@ -42,4 +42,9 @@
 
 .category {
     padding: 0 12px;
+}
+
+.categories {
+    flex-wrap: nowrap;
+    overflow-x: scroll;
 }
